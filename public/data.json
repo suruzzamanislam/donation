@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Good education",
+    "picture": "../src/assets/Resources/Education.png",
+    "category": "Education",
+    "category_bg": "#FF444A33",
+    "card_bg": "#FF444A26",
+    "color_bg": "#FF444A",
+    "description": "Unlock a world of knowledge with Education 1. Our premium online courses provide a lifelong learning journey tailored to your interests. From cutting-edge technology to timeless literature, dive into a comprehensive educational experience. Embark on the path of discovery and self-improvement with Education 1.",
+    "price": "$49.99"
+  },
+  {
+    "title": "Better Food for Everyone",
+    "picture": "../src/assets/Resources/Food.png",
+    "category": "Food",
+    "category_bg": "#F8714733",
+    "card_bg": "#F8714726",
+    "color_bg": "#F87147",
+    "description": "Embark on a culinary adventure with Food 2. Our premium selection of fresh and organic ingredients brings you the finest produce from farm to table. Elevate your recipes and savor the goodness of wholesome ingredients with Food 2.",
+    "price": "$19.99"
+  },
+  {
+    "title": "Clean water for children",
+    "picture": "../src/assets/Resources/Health.png",
+    "category": "Health",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF26",
+    "color_bg": "#0052FF",
+    "description": "Prioritize your well-being with Health 1. Our fitness equipment is designed to elevate your active lifestyle. From cardio workouts to strength training, Health 1 empowers you to achieve your fitness goals. Invest in your health and embrace a journey of vitality with Health 1.",
+    "price": "$79.99"
+  },
+  {
+    "title": "Used Clothing Drive",
+    "picture": "../src/assets/Resources/Clothing.png",
+    "category": "Clothing",
+    "category_bg": "#79C23F33",
+    "card_bg": "#79C23F26",
+    "color_bg": "#79C23F",
+    "description": "Define your style with Clothing 1. Our trendy casual wear is curated for all occasions, blending comfort with fashion. From laid-back weekends to casual outings, Clothing 1 ensures you step out in confidence. Elevate your wardrobe with the latest trends from Clothing 1.",
+    "price": "$49.99"
+  },
+  {
+    "title": "Used Clothing Drive",
+    "picture": "../src/assets/Resources/Clothing.png",
+    "category": "Clothing",
+    "category_bg": "#79C23F33",
+    "card_bg": "#79C23F26",
+    "color_bg": "#79C23F",
+    "description": "Embrace sophistication with Clothing 2. Our formal attire collection is tailored for a refined and polished look. From business meetings to special occasions, Clothing 2 ensures you make a lasting impression. Upgrade your wardrobe with the timeless elegance of Clothing 2.",
+    "price": "$69.99"
+  },
+  {
+    "title": "Good education",
+    "picture": "../src/assets/Resources/Education.png",
+    "category": "Education",
+    "category_bg": "#FF444A33",
+    "card_bg": "#FF444A26",
+    "color_bg": "#FF444A",
+    "description": "Ignite your curiosity with Education 2. Immerse yourself in interactive workshops designed to boost your skills and creativity. From hands-on projects to collaborative learning, Education 2 offers a dynamic educational environment. Unleash your potential and shape your future with Education 2.",
+    "price": "$29.99"
+  },
+  {
+    "title": "Clean water for children",
+    "picture": "../src/assets/Resources/Health.png",
+    "category": "Health",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF26",
+    "color_bg": "#0052FF",
+    "description": "Nourish your body with Health 2. Our organic supplements are crafted to support a balanced and holistic diet. From essential vitamins to natural extracts, Health 2 is your companion on the journey to wellness. Embrace a healthier lifestyle with the nourishing benefits of Health 2.",
+    "price": "$39.99"
+  },
+  {
+    "title": "Good education",
+    "picture": "../src/assets/Resources/Education.png",
+    "category": "Education",
+    "category_bg": "#FF444A33",
+    "card_bg": "#FF444A26",
+    "color_bg": "#FF444A",
+    "description": "Dive into a library of knowledge with Education 3. Our extensive collection of e-books covers a wide range of topics, from science and technology to personal development. Education 3 is your gateway to a world of wisdom and continuous learning. Explore the realms of literature with Education 3.",
+    "price": "$19.99"
+  },
+  {
+    "title": "Clean water for children",
+    "picture": "../src/assets/Resources/Health.png",
+    "category": "Health",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF26",
+    "color_bg": "#0052FF",
+    "description": "Cultivate mindfulness with Health 3. Our wellness programs are designed to promote mental and emotional well-being. From guided meditation to stress management, Health 3 empowers you to achieve balance in your life. Prioritize your mental health with the transformative experiences of Health 3.",
+    "price": "$59.99"
+  },
+  {
+    "title": "Better Food for Everyone",
+    "picture": "../src/assets/Resources/Food.png",
+    "category": "Food",
+    "category_bg": "#F8714733",
+    "card_bg": "#F8714726",
+    "color_bg": "#F87147",
+    "description": "Indulge in the world of gourmet snacks with Food 1. Our exquisite collection includes artisanal chocolates, handpicked nuts, and more. Each bite is a journey of flavor, perfect for delightful moments or as a thoughtful gift. Elevate your snacking experience with the premium selection of Food 1.",
+    "price": "$9.99"
+  },
+
+  {
+    "title": "Used Clothing Drive",
+    "picture": "../src/assets/Resources/Clothing.png",
+    "category": "Clothing",
+    "category_bg": "#79C23F33",
+    "card_bg": "#79C23F26",
+    "color_bg": "#79C23F",
+    "description": "Unleash your active spirit with Clothing 3. Our athletic wear is designed for those who embrace an active lifestyle. From workout sessions to outdoor adventures, Clothing 3 blends style with functionality. Elevate your performance with the dynamic designs of Clothing 3.",
+    "price": "$54.99"
+  },
+
+  {
+    "title": "Better Food for Everyone",
+    "picture": "../src/assets/Resources/Food.png",
+    "category": "Food",
+    "category_bg": "#F8714733",
+    "card_bg": "#F8714726",
+    "color_bg": "#F87147",
+    "description": "Spice up your culinary creations with Food 3. Our curated selection of exotic spices and seasonings includes aromatic blends and rare spices. Each bottle is a passport to international flavors, enhancing your cooking skills and transporting your taste buds to new dimensions.",
+    "price": "$14.99"
+  }
+]
